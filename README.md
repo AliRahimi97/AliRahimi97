@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ali Rahimi
+- 👀 I'm android developer
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning front end
 
